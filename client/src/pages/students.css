@@ -1,0 +1,88 @@
+.main-section {
+  padding: 30px;
+  background-color: #fff;
+  margin: 50px;
+  border-radius: 10px;
+  margin-top: 0;
+}
+
+.student-list {
+  margin: 30px 60px;
+  background-color: #fff;
+}
+
+.ant-collapse-item {
+  border-bottom: 1px solid #d9d9d9;
+}
+
+.panel {
+  font-size: 16px;
+  font-weight: bold;
+  background-color: #ffffff;
+  padding: 5px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.panel {
+  font-size: 16px;
+  font-weight: bold;
+  background-color: #ffffff;
+  padding: 5px;
+}
+
+.ant-collapse-header {
+  font-size: 16px;
+  font-weight: bold;
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+
+ul.student-info {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  display: grid;
+}
+
+ul.student-info li {
+  border-right: 1px solid #686868;
+  border-left: 1px solid #686868;
+  flex-basis: 25%;
+  padding: 5px;
+}
+
+.info {
+  font-weight: 300;
+  padding-left: 10px;
+}
+
+.grade-list {
+  padding: 5px;
+  display: inline-flex;
+  align-items: center;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px;
+}
+
+.grade-list p {
+  font-style: normal;
+}
+
+.quiz-grade {
+  margin: auto 5px;
+  background-color: rgb(134, 164, 173);
+  border-radius: 3px;
+}
+
+@media screen and (min-width: 768px) {
+  .student-info {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}

@@ -1,0 +1,37 @@
+.card {
+  margin: 10px;
+  text-align: center;
+}
+
+.heading-card {
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #9cb9ca;
+  border-color: rgb(216, 216, 216);
+  box-shadow: 2px 2px 10px rgb(216, 215, 215);
+}
+
+.heading-card h2 {
+  font-size: 16px;
+}
+
+.content-card {
+  background-color: rgb(234, 234, 234);
+  color: #e67e22;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.content-card h3 {
+  font-weight: 200;
+  font-size: 22px;
+}
+
+@media screen and (max-width: 767px) {
+  .heading-card {
+    height: 60px;
+  }
+}

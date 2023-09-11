@@ -1,0 +1,219 @@
+[
+{
+    "id": "1",
+    "firstName": "Jack",
+    "lastName": "Collins",
+    "dateOfBirth": "2015/05/15",
+    "schoolingLevel": "Grade 2",
+    "parentGuardian": "Susan Collins",
+    "contact": "1237890",
+    "additionalInformation": ""
+},
+{
+    "id": "2",
+    "firstName": "Emily",
+    "lastName": "Smith",
+    "dateOfBirth": "2016/11/20",
+    "schoolingLevel": "Grade 1",
+    "parentGuardian": "Paul Smith",
+    "contact": "9873210",
+    "additionalInformation": ""
+}, 
+{
+"id": "3",
+"firstName": "Oliver",
+"lastName": "Johnson",
+"dateOfBirth": "2015/09/10",
+"schoolingLevel": "Grade 2",
+"parentGuardian": "Emma Johnson",
+"contact": "4567890",
+"additionalInformation": ""
+},
+
+{
+"id": "4",
+"firstName": "Ava",
+"lastName": "Williams",
+"dateOfBirth": "2016/03/25",
+"schoolingLevel": "Grade 1",
+"parentGuardian": "Michael Williams",
+"contact": "7890123",
+"additionalInformation": ""
+},
+
+{
+"id": "5",
+"firstName": "Ethan",
+"lastName": "Miller",
+"dateOfBirth": "2015/08/12",
+"schoolingLevel": "Grade 2",
+"parentGuardian": "Sophia Miller",
+"contact": "1029384",
+"additionalInformation": ""
+},
+
+{
+"id": "6",
+"firstName": "Sophia",
+"lastName": "Taylor",
+"dateOfBirth": "2016/01/05",
+"schoolingLevel": "Grade 1",
+"parentGuardian": "William Taylor",
+"contact": "3948576",
+"additionalInformation": ""
+},
+
+{
+"id": "7",
+"firstName": "Noah",
+"lastName": "Anderson",
+"dateOfBirth": "2015/12/18",
+"schoolingLevel": "Grade 2",
+"parentGuardian": "Olivia Anderson",
+"contact": "8765432",
+"additionalInformation": ""
+},
+
+{
+"id": "8",
+"firstName": "Isabella",
+"lastName": "Martinez",
+"dateOfBirth": "2016/07/11",
+"schoolingLevel": "Grade 1",
+"parentGuardian": "David Martinez",
+"contact": "1357924",
+"additionalInformation": ""
+},
+
+{
+"id": "9",
+"firstName": "Liam",
+"lastName": "Clark",
+"dateOfBirth": "2015/10/03",
+"schoolingLevel": "Grade 2",
+"parentGuardian": "Mia Clark",
+"contact": "6798543",
+"additionalInformation": ""
+},
+
+{
+"id": "10",
+"firstName": "Mia",
+"lastName": "Robinson",
+"dateOfBirth": "2016/04/14",
+"schoolingLevel": "Grade 1",
+"parentGuardian": "Daniel Robinson",
+"contact": "3847562",
+"additionalInformation": ""
+},
+
+{
+"id": "11",
+"firstName": "Lucas",
+"lastName": "Hernandez",
+"dateOfBirth": "2015/06/30",
+"schoolingLevel": "Grade 2",
+"parentGuardian": "Sofia Hernandez",
+"contact": "7483920",
+"additionalInformation": ""
+},
+
+{
+"id": "12",
+"firstName": "Charlotte",
+"lastName": "Wright",
+"dateOfBirth": "2016/02/07",
+"schoolingLevel": "Grade 1",
+"parentGuardian": "James Wright",
+"contact": "1234567",
+"additionalInformation": ""
+},
+
+{
+"id": "13",
+"firstName": "Liam",
+"lastName": "Brown",
+"dateOfBirth": "2015/07/25",
+"schoolingLevel": "Grade 2",
+"parentGuardian": "Emily Brown",
+"contact": "9876543",
+"additionalInformation": ""
+},
+
+{
+"id": "14",
+"firstName": "Amelia",
+"lastName": "Evans",
+"dateOfBirth": "2016/12/19",
+"schoolingLevel": "Grade 1",
+"parentGuardian": "Benjamin Evans",
+"contact": "5678901",
+"additionalInformation": ""
+},
+
+{
+"id": "15",
+"firstName": "Elijah",
+"lastName": "Baker",
+"dateOfBirth": "2015/11/09",
+"schoolingLevel": "Grade 2",
+"parentGuardian": "Grace Baker",
+"contact": "3210987",
+"additionalInformation": ""
+},
+
+{
+"id": "16",
+"firstName": "Harper",
+"lastName": "Gonzalez",
+"dateOfBirth": "2016/08/17",
+"schoolingLevel": "Grade 1",
+"parentGuardian": "Alexander Gonzalez",
+"contact": "6543210",
+"additionalInformation": ""
+},
+
+{
+"id": "17",
+"firstName": "Mason",
+"lastName": "Adams",
+"dateOfBirth": "2015/09/02",
+"schoolingLevel": "Grade 2",
+"parentGuardian": "Chloe Adams",
+"contact": "9081726",
+"additionalInformation": ""
+},
+
+{
+"id": "18",
+"firstName": "Ella",
+"lastName": "Walker",
+"dateOfBirth": "2016/03/12",
+"schoolingLevel": "Grade 1",
+"parentGuardian": "Christopher Walker",
+"contact": "2510498",
+"additionalInformation": ""
+},
+
+{
+"id": "19",
+"firstName": "Logan",
+"lastName": "Garcia",
+"dateOfBirth": "2015/08/27",
+"schoolingLevel": "Grade 2",
+"parentGuardian": "Isabella Garcia",
+"contact": "7698345",
+"additionalInformation": ""
+},
+
+{
+"id": "20",
+"firstName": "Aria",
+"lastName": "Allen",
+"dateOfBirth": "2016/01/15",
+"schoolingLevel": "Grade 1",
+"parentGuardian": "Ryan Allen",
+"contact": "3847569",
+"additionalInformation": ""
+}
+]
