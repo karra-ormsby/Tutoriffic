@@ -94,9 +94,9 @@ const styles = {
   },
   button: {
     width: '30px',
-  textAlign: 'center',
-  padding: 'auto', 
-  background: 'transparent',
+    textAlign: 'center',
+    padding: 'auto', 
+    background: 'transparent',
   }
 };
 
