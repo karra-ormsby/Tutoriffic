@@ -25,7 +25,7 @@ This Repo contains 1/2 of the project for a virtual classroom application. This 
 
 ## Installation
 
-No installation needed. The application can be found at 
+No installation needed. The application can be found at https://tuttorific-d9fe24230c7c.herokuapp.com/.
 
 ## Usage
 
